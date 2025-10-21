@@ -2,13 +2,13 @@
 Одна из дисциплин ИСБ (Информационные Системы Бизнеса). ФИТиП. ИТМО
 
 ## Лабораторная работа 1: Разработка проекта Service Level Agreement
-[Отчет]()
+[Отчет](https://github.com/zi2p/Information-technology-management-in-the-enterprise/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BB%D0%B0%D0%B1%201%20M4200c%20%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D0%B5%D0%B2%D0%B0%20%D0%AE%D0%98%20311525.pdf)
 
 ## Лабораторная работа 2: Разработка регламента управления ИТ-сервисом
-[Отчет]()
+[Отчет](https://github.com/zi2p/Information-technology-management-in-the-enterprise/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BB%D0%B0%D0%B1%202%20M4200c%20%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D0%B5%D0%B2%D0%B0%20%D0%AE%D0%98%20311525.pdf)
 
 ## Лабораторная работа 3: 10 релизов / SLA как контракт команды
-[Отчет]()
+[Отчет](https://github.com/zi2p/Information-technology-management-in-the-enterprise/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BB%D0%B0%D0%B1%203%20M4200c%20%D0%9F%D0%B8%D1%81%D0%B0%D1%80%D0%B5%D0%B2%D0%B0%20%D0%AE%D0%98%20311525.pdf)
 
 ## Лабораторная работа 4: Передача между продуктом и техникой: релизы Х и Х+1
 [Отчет]()
