@@ -176,7 +176,7 @@
 [Ссылка на таблицу](https://miro.com/app/board/uXjVJ8MVyEg=/?share_link_id=848394727880)
 
 
-## Оценивание лабораторных работ [Тетеориной МО](https://github.com/MairianeTSoul/Information-technology-management-in-the-enterprise)
+## Оценивание лабораторных работ [Тетериной МО](https://github.com/MairianeTSoul/Information-technology-management-in-the-enterprise)
 
 В работе требовалось оценить работы одногруппника. Оценить целостность и корректность SLA по [критериям](https://github.com/zi2p/Information-technology-management-in-the-enterprise/blob/main/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf).
 
